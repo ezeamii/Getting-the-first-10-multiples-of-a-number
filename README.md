@@ -1,0 +1,1 @@
+# Getting-the-first-10-multiples-of-a-number
